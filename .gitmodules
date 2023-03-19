@@ -1,0 +1,9 @@
+[submodule "PacMen"]
+	path = PacMen
+	url = https://github.com/djgillespie/PacMen
+[submodule "EyeMovement"]
+	path = EyeMovement
+	url = https://github.com/djgillespie/EyeMovement
+[submodule "BusTracker"]
+	path = BusTracker
+	url = https://github.com/djgillespie/BusTracker
